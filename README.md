@@ -60,9 +60,9 @@ The CNN is built using the following layers:
    - Train the model and evaluate its performance.
 
 ## Results
-- Training accuracy: 89%
+- Training accuracy: 85.5%
 - Test accuracy: 85%
-- loss: 36%
+- loss: 33%
 
 
 
