@@ -71,3 +71,4 @@ The CNN is built using the following layers:
 - The dataset providers 
 
 [Dateset URl link](https://drive.google.com/drive/folders/1weohtLncBZtJu3K7Nxg_lhG1Di31HwBx?usp=sharing)
+[My Medium Blog for this project](https://medium.com/@saminyeaser1/image-classification-using-cnn-d1c4f27cc700)
