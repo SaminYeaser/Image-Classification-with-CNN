@@ -59,6 +59,9 @@ The CNN is built using the following layers:
    - Build and compile the CNN model.
    - Train the model and evaluate its performance.
 
+## Testign the accuracy
+- This code takes an image and uses a trained model to predict if it is that of a cat or the image is of a dog. The `predict_image` function takes an image through the web or from the local machine it then resizes the image to 128 x 128 pixels and then converts the image to a numerical array normalized between 0 to 1. For each of such an image, the image is forwarded to the model for prediction and the prediction is either greater than 0.5 “Dog” or less than 0.5 “Cat.” It also uses the Matplotlib to display the image. In the script, we have all the images in `dataset/single_prediction ` folder that are processed and the model prints a prediction for each.
+
 ## Results
 - Training accuracy: 85.5%
 - Test accuracy: 85%
