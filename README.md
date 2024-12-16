@@ -53,7 +53,7 @@ The CNN is built using the following layers:
 ## Usage
 1. Clone the repository and navigate to the project directory.
 2. Prepare your dataset in the required format.
-3. Open the Jupyter Notebook file `CNN for Image Classification.ipynb`.
+3. Open the Jupyter Notebook file `CNN for Image Classification_samin.ipynb `.
 4. Execute the cells sequentially to:
    - Load and preprocess the dataset.
    - Build and compile the CNN model.
